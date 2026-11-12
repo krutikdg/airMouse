@@ -34,6 +34,9 @@ Status: the firmware and the case have not been tested on real hardware yet, and
 
 # Circuit Diagram
 
+<img width="806" height="731" alt="airMouse" src="https://github.com/user-attachments/assets/6b8940be-32d0-424b-ac6e-150612922509" />
+
+
 ## Pin Map (XIAO ESP32S3)
 
 | Component | Component Pin | MCU Pin |
@@ -156,3 +159,12 @@ All the settings mentioned below are in the settings block at the top of the ske
 
 **The stick rubs its hole, a button sticks, or the USB-C plug will not fit.** Enlarge the matching hole in the CAD model and reprint. The sizes are parameters in the model.
 
+# CAD Models
+## Body
+<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/1d151112-460b-42d7-ac22-0d2dcc55b14e" />
+
+## Cover 
+<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/d863c2b4-7bac-4c05-928f-6cdb18a999cb" />
+
+## Complete
+<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/ac04f525-9ea1-4381-844b-97df6c700523" />
